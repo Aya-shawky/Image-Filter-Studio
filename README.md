@@ -1,9 +1,6 @@
 # Image-Filter-Studio
 Image filterimng on a gray or an RGB image and histogram equalization on a gray image
 
-## Main window
-<img src="main window.png"/>
-
 ### Filters provided
 1. High pass filter
 2. low pass filter
